@@ -6,5 +6,5 @@ const height = document.getElementById(height1);
 console.log(height1);
 
 function bmi() {
-  const sum = 
+  const sum = hi hellow
 }
