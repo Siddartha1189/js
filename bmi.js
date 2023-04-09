@@ -1,10 +1,12 @@
 console.log("hi");
 
-const mass = document.getElementById(mass1);
-console.log(mass1);
-const height = document.getElementById(height1);
-console.log(height1);
+var mass;
+mass = parseInt(document.getElementById("mass1").value);
+console.log(mass);
+var height = parseInt(document.getElementById("height1").value);
+console.log(height);
 
 function bmi() {
-  const sum = hi hellow
+  var sum = mass / Math.pow(height, 2);
+  console.log(sum);
 }
